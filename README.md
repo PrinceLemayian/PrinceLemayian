@@ -20,7 +20,7 @@
 
 <p align="center">
   <strong>Hi — I'm <em>Lemayian</em> 👋</strong><br>
-  💻 Computer Science Student · 🌍 JavaScript Learner · ⚙️ Builder of Useful Things
+  💻 Computer Science Student · 🌍 JavaScript Learner · ⚙️ Builder of Useful Things· ✨ Delusionally Optimistic ·
 </p>
 
 ---
@@ -30,7 +30,7 @@
 - 🧩 Love solving algorithmic challenges and debugging problems  
 - 🚀 Working toward a **full-stack JavaScript project** this year  
 - 🎧 Coding music: indie-folk, western country  
-- 💬 Motto: *“Sic Parvis Magna”*  
+- 💬 Fav quote: *"You only need to be right once."*  
 
 ---
 
