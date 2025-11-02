@@ -29,7 +29,7 @@
 - 🎯 Currently mastering **modern JavaScript (ES6+)**, DOM, and Node.js  
 - 🧩 Love solving algorithmic challenges and debugging problems  
 - 🚀 Working toward a **full-stack JavaScript project** this year  
-- 🎧 Coding music: indie-folk, western country  
+- 🎧 Coding music: indie-folk, western country, South African Jazz  
 - 💬 Fav quote: *"You only need to be right once."*  
 
 ---
