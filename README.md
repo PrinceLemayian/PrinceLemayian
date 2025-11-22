@@ -42,10 +42,15 @@
 ---
 
 ## 🧩 featured mini-projects
-- 🧠 **Sentence Analyzer** — breaks text into vowels, consonants, punctuation  
-- 🔤 **Longest Word Finder** — parses and finds longest tokens in text  
-- 🔁 **Factorial Calculator** — iterative & recursive implementations  
-- 🔡 **Mutations Algorithm** — checks if all letters exist between words  
+
+* 📝 **Real-time Character Counter** — Uses the input event listener for real-time feedback, enforces limits with maxlength, and actively trims pasted content to manage input length.
+
+* 🎹 **Music Instrument Filter** — Demonstrates dynamic array filtering (.filter()) based on user criteria and rebuilds the DOM to display synchronized results, a core skill for inventory or e-commerce lists.
+
+* 🤯 **Emoji Reactor** — Focuses on building a complex, interactive UI feature by managing dynamic state (tracking which emoji is clicked and its count) and handling event delegation.
+
+* 💖 **Favorite Icon Toggler** — Focuses on fundamental DOM manipulation and event handling by toggling CSS classes to visually switch the icon's state (e.g., from outline to solid fill).
+
 
 > 🛠️ *More soon — I’m building and learning every day!*
 
