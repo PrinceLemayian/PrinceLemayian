@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/Learning-Git%2FNode.js-brightgreen?style=for-the-badge&logo=git" />
 </p>
 
