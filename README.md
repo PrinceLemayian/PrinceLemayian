@@ -26,9 +26,9 @@
 ---
 
 ## 🧭 about me
-- 🎯 Currently mastering **modern JavaScript (ES6+)**, DOM, and Node.js  
+- 🎯 Currently mastering **modern JavaScript (ES6+)**, Linux OS, Responsive and intuitive UI Design  
 - 🧩 Love solving algorithmic challenges and debugging problems  
-- 🚀 Working toward a **full-stack JavaScript project** this year  
+- 🚀 Working toward a **full-stack JavaScript project**   
 - 🎧 Coding music: indie-folk, western country, South African Jazz  
 - 💬 Fav quote: *"You only need to be right once."*  
 
