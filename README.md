@@ -17,8 +17,8 @@
 
 ## About me
 - Currently mastering **modern JavaScript (ES6+)**, Linux OS, and Responsive UI Design.
-- Deeply interested in the intersection of **technology with medicine and modern defense systems**.
-- Recently completed my first end-to-end frontend landing page.
+- Deeply interested in the intersection of **technology with medicine, finance and modern defense systems**.
+- Recently completed two end-to-end frontend landing pages.
 - Coding music: indie-folk, western country, and South African Jazz.
 - Fav quote: *"Stay Hungry, Stay Foolish"*
 
@@ -30,10 +30,17 @@ A premium, responsive landing page built with **Vanilla HTML, CSS, and JavaScrip
 - **Goal:** Mastering the transition from design to a fully functional, mobile-first website.
 - [📁 View Code](https://github.com/PrinceLemayian/Omnifood-project)
 
-### [Markdown to HTML Converter](https://github.com/PrinceLemayian)
+### [Markdown to HTML Converter](https://github.com/PrinceLemayian/markdown-HTML-Converter)
 A technical utility built to transform Markdown syntax into clean HTML structures.
 - **Focus:** Practicing string manipulation, Regular Expressions (Regex), and logical parsing in JavaScript.
 - **Challenge:** Handling nested elements and ensuring semantic HTML output.
+- [📁 View Code](https://github.com/PrinceLemayian/markdown-HTML-Converter)
+
+### [Directory Analyzer — Python Filesystem Scanner](https://github.com/PrinceLemayian/Directory-tree-analyzer)
+A command-line utility built with Python that recursively analyzes directories and reports detailed filesystem statistics.
+- **Key Features:** Recursive traversal using pathlib, file size aggregation, extension-based grouping, and largest-file detection.
+- **Focus:** Understanding filesystem APIs, recursion, error handling (PermissionError, OSError), and data aggregation.
+- [📁 View Code](https://github.com/PrinceLemayian/Directory-tree-analyzer)
 
 ---
 
