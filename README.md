@@ -59,6 +59,14 @@ A command-line utility built with Python that recursively analyzes directories a
 * **Favorite Icon Toggler** — Fundamental DOM manipulation and CSS class toggling.
 
 ---
+## GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PrinceLemayian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=PrinceLemayian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## GitHub stats
 <p align="center">
