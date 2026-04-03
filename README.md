@@ -62,7 +62,7 @@ A command-line utility built with Python that recursively analyzes directories a
 
 ## GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceLemayian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PrinceLemayian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 ---
