@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <strong>“Sic Parvis Magna”</strong> — Greatness from small beginnings
+  <strong>“Sic Parvis Magna”</strong>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Hi — I'm <em>Lemayian</em> 👋</strong><br>
+  <strong>Hi, I'm <em>Lemayian</em> 👋</strong><br>
   Computer Science Student · Software Engineer · Maverick
 </p>
 
@@ -77,9 +77,6 @@ A command-line utility built with Python that recursively analyzes directories a
 
 ## Connect with me
 <p align="center">
-  <a href="https://github.com/PrinceLemayian" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:prlemayian@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
