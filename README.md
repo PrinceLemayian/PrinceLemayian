@@ -47,6 +47,7 @@ A command-line utility built with Python that recursively analyzes directories a
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,linux,neovim" alt="tech stack" />
 </p>
+
 ---
 ## GitHub stats
 <p align="center">
