@@ -18,7 +18,6 @@
 ## About me
 - Currently mastering **modern JavaScript (ES6+)**, Linux OS, and Responsive UI Design.
 - Deeply interested in the intersection of **technology with medicine, finance and modern defense systems**.
-- Recently completed two end-to-end frontend landing pages.
 - Coding music: indie-folk, western country, and South African Jazz.
 - Fav quote: *"Stay Hungry, Stay Foolish"*
 
@@ -46,18 +45,8 @@ A command-line utility built with Python that recursively analyzes directories a
 
 ## Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,linux" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,linux,neovim" alt="tech stack" />
 </p>
-
----
-
-## Mini-projects & experiments
-
-* **Real-time Character Counter** — Input event handling with real-time feedback and `maxlength` enforcement.
-* **Music Instrument Filter** — Dynamic array filtering (`.filter()`) to rebuild the DOM based on user criteria.
-* **Emoji Reactor** — Managing dynamic state and event delegation for interactive UI elements.
-* **Favorite Icon Toggler** — Fundamental DOM manipulation and CSS class toggling.
-
 ---
 ## GitHub stats
 <p align="center">
