@@ -17,9 +17,7 @@
 
 ## About me
 - Currently mastering **modern JavaScript (ES6+)**, Linux OS, and Responsive UI Design.
-- Deeply interested in the intersection of **technology with medicine, finance and modern defense systems**.
-- Coding music: indie-folk, western country, and South African Jazz.
-- Fav quote: *"Stay Hungry, Stay Foolish"*
+- Interested in the intersection of **technology with medicine, finance and modern defense systems**.
 
 ## Featured projects
 
