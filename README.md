@@ -17,6 +17,7 @@
 
 ## About me
 
+- Low Level Enthusiast
 - Building a strong foundation in **modern JavaScript**, **React**, **data structures and algorithms**, and **C programming**.
 - Currently exploring React, blockchain, Web3, decentralized applications, and smart-contract fundamentals.
 - Interested in the intersection of **technology with medicine, finance, security, and modern defense systems**.
