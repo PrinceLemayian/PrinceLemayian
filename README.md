@@ -32,7 +32,7 @@
 
 ## Featured projects
 
-### [Forkify - Recipe Application (WIP)](https://github.com/PrinceLemayian/forkify)
+### [Forkify - Recipe Application](https://github.com/PrinceLemayian/forkify)
 
 A more advanced JavaScript recipe app built with **ES modules**, **Parcel**, **Sass**, async API loading, and an MVC-style project structure.
 
